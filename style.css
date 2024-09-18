@@ -1,0 +1,39 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f8ff; /* Cor de fundo suave */
+    color: #333; /* Cor do texto */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Altura da tela */
+    margin: 0;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.8); /* Fundo branco com transparência */
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    
+}
+
+h1 {
+    font-size: 2.5em;
+    margin: 0;
+    color: #ff6347; /* Tom de vermelho */
+}
+
+h2 {
+    font-size: 2em;
+    margin: 20px 0 0;
+    color: #4682b4; /* Tom de azul */
+}
+
+.heart {
+    color: #ff6347; /* Cor do coração */
+    font-size: 2em;
+}
